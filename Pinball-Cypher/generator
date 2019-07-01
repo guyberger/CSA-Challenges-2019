@@ -1,0 +1,18 @@
+#!/bin/bash
+declare -a arr=("1" "2" "3" "4" "5" "6" "7" "8" "9" "0")
+declare -a arr2=("+" "-")
+for i in "${arr[@]}"
+do
+	for j in "${arr[@]}"
+	do
+		for k in "${arr2[@]}"
+		do
+			for l in "${arr2[@]}"
+			do
+				./pinball.elf transform msg.enc out.txt $i $j $k $l
+				echo `cat out.txt` >> total.txt
+			done
+		done
+	done
+done	
+                	
