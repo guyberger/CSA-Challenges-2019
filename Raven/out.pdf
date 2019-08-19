@@ -1,0 +1,100 @@
+%PDF-1.4
+%¿÷¢þ
+%QDF-1.0
+
+%% Original object ID: 67 0
+1 0 obj
+<<
+  /Pages 3 0 R
+  /Type /Catalog
+>>
+endobj
+
+%% Original object ID: 70 0
+2 0 obj
+<<
+  /Author (Shiran Yodev)
+>>
+endobj
+
+%% Original object ID: 68 0
+3 0 obj
+<<
+  /Count 1
+  /Kids [
+    4 0 R
+  ]
+  /Resources <<
+    /Font <<
+      /F1 5 0 R
+    >>
+  >>
+  /Type /Pages
+>>
+endobj
+
+%% Page 1
+%% Original object ID: 69 0
+4 0 obj
+<<
+  /Contents 6 0 R
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 3 0 R
+  /Type /Page
+>>
+endobj
+
+%% Original object ID: 66 0
+5 0 obj
+<<
+  /BaseFont /Helvetica
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Contents for page 1
+%% Original object ID: 60 0
+6 0 obj
+<<
+  /Length 7 0 R
+>>
+stream
+BT
+/F1 20 Tf
+1 g
+[(read between)] TJ%S
+[( the lines)] TJ
+ET
+endstream
+endobj
+
+%QDF: ignore_newline
+7 0 obj
+59
+endobj
+
+xref
+0 8
+0000000000 65535 f 
+0000000053 00000 n 
+0000000135 00000 n 
+0000000210 00000 n 
+0000000377 00000 n 
+0000000521 00000 n 
+0000000649 00000 n 
+0000000785 00000 n 
+trailer <<
+  /Info 2 0 R
+  /Root 1 0 R
+  /Size 8
+  /ID [<1c64bcf0217a6fc8d8d64bda306b7c39><1c64bcf0217a6fc8d8d64bda306b7c39>]
+>>
+startxref
+804
+%%EOF
