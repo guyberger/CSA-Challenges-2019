@@ -6,7 +6,7 @@ First thing I noticed was the hexadecimal encoding
 After decrypting we get 
 > FilterFlateDecode
 
-which is the compressing algorithm for the pdf file.
+which is the compression algorithm for the pdf file.
 To decompress we can use the command 
 ```
 pdf --qdf --object-streams=disable in.pdf out.pdf
