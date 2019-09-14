@@ -1,5 +1,5 @@
 # Lost Inside My PPTX
-This challenge is pretty stright forward.
+This challenge is pretty stright forward, solved in bash.
 
 ### Flag:
 > CSA{7IZUWIKWIEQZNS9F5TVVY7JR9ZAB3CR2L0VA01BCJO1W47IEHGNT1G7QDHPJK5QVFH55JD45R4NF2TRF0VCMRGM3AFMDF2H8CYE1BMUQM50NFWB2WQNCYM4V}
